@@ -13,19 +13,23 @@
 #### Пример:
 1. В проекте есть неработающая ссылка:
 
-![image](https://github.com/KenWood2b/Missing/assets/146090806/984a6814-cf5f-43fe-84ae-41b342538b12)
+![image](https://github.com/KenWood2b/Missing/assets/146090806/5547350c-d6ec-4151-b2e4-030411daf363)
+
 
 2. Открываем иструмент и выбираем нужную нам опцию:
 
-![image](https://github.com/KenWood2b/Missing/assets/146090806/b39b5d5b-ea90-4112-81b0-a7f9fbe1a302)
+![image](https://github.com/KenWood2b/Missing/assets/146090806/f0122977-067f-44de-8382-b1ae73ec2809)
+
 
 3. Скрипт показывает ошибку с недействительной ссылкой и указывает тип ошибки:
 
-![image](https://github.com/KenWood2b/Missing/assets/146090806/55bc3756-3613-4f97-9fde-85c7e0b52789)
+![image](https://github.com/KenWood2b/Missing/assets/146090806/456c74da-3f72-4630-a290-3830205fc2cf)
+
 
 4. При клике по ошибке объект подсвечиваеться:
 
-![image](https://github.com/KenWood2b/Missing/assets/146090806/af400dda-b14d-48e4-9166-46ce478a6bb1)
+![image](https://github.com/KenWood2b/Missing/assets/146090806/75503eda-2aca-48f0-a307-27bbd44a7df4)
+
 
 
 
